@@ -3,3 +3,4 @@ diyansha*
 venv
 .idea/
 *.iml
+out/
